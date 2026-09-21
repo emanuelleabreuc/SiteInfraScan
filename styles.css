@@ -55,10 +55,17 @@ h3{
 
 
 .nav{
-  display:flex;justify-content:space-between;align-items:center;
-  padding:1.1rem 2.5rem;background:rgba(6,13,26,.72);color:#fff;
-  position:sticky;top:0;z-index:10;
-  backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:1.1rem 2.5rem;
+  background:rgba(6,13,26,.72);
+  color:#fff;
+  position:sticky;
+  top:0;
+  z-index:10;
+  backdrop-filter:blur(14px);
+  -webkit-backdrop-filter:blur(14px);
   border-bottom:1px solid rgba(255,255,255,.06);
 }
 
