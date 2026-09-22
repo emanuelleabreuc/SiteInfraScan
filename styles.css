@@ -250,8 +250,9 @@ h3{
     max-width:640px;
     color:var(--muted);
     margin-bottom:1.75rem;
+    margin-top:1.5rem;
     font-size:1.35rem;
-    
+
 }
 
 .block.dark .block-intro{
